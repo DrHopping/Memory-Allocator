@@ -81,4 +81,4 @@ test2 = (int*)allocator.mem_realloc(test2, 25);
 allocator.mem_show();    
 ```
 ##### Output
-![The reallocation](realloc/3.png "The reallocation")
+![The reallocation](.img/realloc.png "The reallocation")
